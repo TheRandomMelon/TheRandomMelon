@@ -14,7 +14,7 @@ If I remember any more significant projects, I'll add them here.
 
 📹 **YouTube** [/TheRandomMelon](https://youtube.com/TheRandomMelon)
 
-🎮 **Twitch**  [@michaelwebbtrm](https://twitch.tv/michaelwebbtrm)
+🎮 **Twitch**  [/TheRandomMelon](https://twitch.tv/TheRandomMelon)
 
 <!--
 **TheRandomMelon/TheRandomMelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
