@@ -1,10 +1,6 @@
 ### Hi there 👋
 I'm Michael Webb, more commonly known as TheRandomMelon/MichaelWebbTRM online. I've programmed various things for a few years now, especially when I get bored. You can check out some of the public ones listed on my profile if you want, or a list of significant projects:
 
-🔵 **Neptune** - A social video sharing website. [@WatchNeptuneTV](https://twitter.com/WatchNeptuneTV)
-
-💻 **Histacom** - 12padams's time-travelling hacking game, remade and rewritten to fix many issues. VERY WIP, check out the repo [here](https://github.com/TheRandomMelon/Histacom).
-
 🎮 **Public Guardian** - Fight crime for the government... or not. It's up to you. Not a public repo, but something I'm working on -> [Join the Discord](https://discord.gg/CeBBXWN) or [Follow on Twitter](https://twitter.com/PubGuardGame)
 
 If I remember any more significant projects, I'll add them here.
