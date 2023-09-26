@@ -14,6 +14,8 @@ If I remember any more significant projects, I'll add them here.
 
 🎮 **Twitch**  [/TheRandomMelon](https://twitch.tv/TheRandomMelon)
 
+<a rel="me" href="https://wetdry.world/@trm">Mastodon</a>
+
 <!--
 **TheRandomMelon/TheRandomMelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
